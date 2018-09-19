@@ -25,4 +25,9 @@ body>div.container {
   position: absolute;
 }
 
-p.double {border-style: double;} 
+p.double {
+  border-style: double;
+  border-radius: 5px;
+  border-color: white;
+  border-width: 5px;
+} 
